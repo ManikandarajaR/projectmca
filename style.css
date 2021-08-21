@@ -1,0 +1,17 @@
+.store-img
+{
+     width: 400px;
+     height: 500px;    
+}
+.inners
+{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.about
+{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}

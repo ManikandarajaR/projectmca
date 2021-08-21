@@ -1,0 +1,12 @@
+.box-center
+{
+    margin: 0 auto;
+}
+.bg-black{
+     background-color: rgb(24, 23, 23);
+}
+.store-img
+{
+    width: 50%;
+    height:50%;
+}

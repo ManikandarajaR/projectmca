@@ -1,0 +1,19 @@
+.logo-image
+{
+     display: flex;
+     justify-content: center;
+}
+.logo-image p{
+     font-size: 20px;
+     font-weight:bold;
+}
+.products
+{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.product-padding
+{
+     padding: 20px;
+}
